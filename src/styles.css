@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.app-frame {
+  height: 500px;
+  width: 500px;
+  background-color: yellow;
+  background-image: url(https://2amobile.fr/222-large_default/bloc-ecran-pour-iphone-6s.jpg);
+}
+.app-frame p {
+  font-size: 40px;
+  margin: 0px;
+  margin-right: 40px;
+}
+
+.time-in-numbers {
+  display: flex;
+  margin-top: 150px;
+  margin-right: 45px;
+  justify-content: center;
+  font-size: 30px;
+}
+.time-in-name {
+  display: flex;
+  justify-content: center;
+  font-size: 10px;
+  margin-left: 20px;
+}
+.time-in-name p {
+  font-size: 7px;
+}
+
+.time-in-name {
+  margin-right: 24px;
+}
+.buttons {
+  margin-top: 180px;
+  margin-right: 30px;
+}
+.btn {
+  background-color: #4caf50;
+  font-size: 30px;
+  border-radius: 10px;
+  margin-right: 7px;
+  color: white;
+}
